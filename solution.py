@@ -166,13 +166,13 @@ A = np.array([[1,1,2,1],
               [2,-1,1,2],
               [-1,1,2,3],
               [0,1,-1,4]], dtype='float')
+print(A)
 P=np.copy(A)
 #r_P, c_P = P.shape
 #print(r_P)
 #REA=row_echelon(A)
 A_result=row_echelon(A)
 
-print(A)
 print('この行列の階段行列を求めます。第１列から順に掃き出していきます。')
 row_echelon_new(A)
 #print(A_result)
