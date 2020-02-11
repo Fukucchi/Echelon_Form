@@ -4,5 +4,11 @@
 
 現状は(行数)>=(列数)なる行列にのみ対応しています。列数が上回る場合の0徐算の処理が直近の課題です。
 
+
+
+例：
+
+<img width="406" alt="スクリーンショット 2020-02-11 23 16 27" src="https://user-images.githubusercontent.com/59995592/74246478-edfc0000-4d27-11ea-87b1-34eb646c34d5.png">
+
 # Reference
 https://math.stackexchange.com/a/3073117
