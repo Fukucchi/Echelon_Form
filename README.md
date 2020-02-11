@@ -8,7 +8,7 @@
 
 例：
 
-<img width="406" alt="スクリーンショット 2020-02-11 23 16 27" src="https://user-images.githubusercontent.com/59995592/74246478-edfc0000-4d27-11ea-87b1-34eb646c34d5.png">
+<img width="395" alt="スクリーンショット 2020-02-11 23 50 51" src="https://user-images.githubusercontent.com/59995592/74247553-9363a380-4d29-11ea-9ad9-ada620ca610a.png">
 
 # Reference
 https://math.stackexchange.com/a/3073117
